@@ -1,7 +1,7 @@
 # Projet F1 Calendar 2019
 
 - Énoné :
-  Création d'une application mobile avec :
+  Création d'un application mobil avec :
   - Deux écrans : Un écran avec une liste et un écran avec un détail de l’item
   - Appel WebService à une API Rest.
   
@@ -22,7 +22,7 @@
   - Création de plusieurs activités pour avoir plusieurs écrans.
   
   
-- Ce que contient l'application :
+- Ce l'application :
   - Une liste avec RecyclerView
   - La mise en place d'une API Rest
   - Plusieurs écrans
